@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Riya and Aarav
+=======
+Hello Riya and Aarav and family
+>>>>>>> branch1
