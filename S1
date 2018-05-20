@@ -1,11 +1,7 @@
-S1 file 
-SDN IP = 10.22.131.65
-10,20,30,7000
 
-Auth IP master after merging : 10.22.131.45
-=======
-Testing ......
-red : 10,200
-blue : 20
-green : 30
-orange : 40
+S1 : 0.0.0.0
+
+AA: 10.10.10.10
+BB: 20.20.20.20
+CC: 30.30.30.30
+DD: 40.40.40.40
