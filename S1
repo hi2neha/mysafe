@@ -1,9 +1,9 @@
 S1 file 
 SDN IP = 10.22.131.65
 10,20,30,7000
-Auth IP : 10.22.131.45
+Auth IP Dev: 10.22.131.45
 
-red : 10
+red : 10,200
 blue : 20
 green : 30
 orange : 40
